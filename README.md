@@ -1,4 +1,5 @@
 # hula-hoop-31
+## A MakeCode Arcade Game
 
 ## Overview
 Like real-world Hula Hoop, the goal is to keep the hoops moving. If all hoops stop, the player loses with score zero. Winning requires keeping the hoops moving through four levels, which are indicated by the hearts on the left of the screen: the more hearts the longest lived. The level advances when the current countdown reaches zero. Each level ls increasingly difficult. Not only is the countdown time longer; but new hoops are launched at a slower velocity and when two hoops overlap, one is more likely to follow the other. Both these features make the hoops more likely to reach an equilibrium that stops all hoop movement.
