@@ -15,7 +15,7 @@ See [Using Hula-Hoop Game in MakeCode Arcade](https://wecodemakecode.com/2019/12
 
 ![](Hula-Hoop.gif)
 
-## This Version of Hula Hoop in Written in MakeCode Blocks -- No Extension
+## This Version of Hula Hoop in Written in MakeCode Blocks -- No Extensions
 Other versions use various uses one of three Arcade extensions designed to manipulate circles.
 
 ## Edit this Program
