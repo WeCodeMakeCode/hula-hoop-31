@@ -12,7 +12,7 @@ example, a hoop that has stopped moving altogether. The countdown does not resta
 
 See [Using Hula-Hoop Game in MakeCode Arcade](https://wecodemakecode.com/2019/12/02/using-hula-hoop-game-in-makecode-arcade/)
 
-
+![](Hula-Hoop.gif)
 
 ## Edit this Program
 
