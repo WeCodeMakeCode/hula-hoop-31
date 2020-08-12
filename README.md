@@ -7,20 +7,14 @@ See [Code for Hula-Hoop Game in MakeCode Arcade](https://wecodemakecode.com/2019
 
 ## Usage
 
-The up button adds one hoop. When a hoop is added, the current countdown starts over. The down button removes the slowest hoop; for example, a hoop that has stopped moving altogether. The countdown does not restart.
+The up button adds one hoop. When a hoop is added, the current countdown starts over. The down button removes the slowest hoop; for 
+example, a hoop that has stopped moving altogether. The countdown does not restart.
+
+See [Using Hula-Hoop Game in MakeCode Arcade](https://wecodemakecode.com/2019/12/02/using-hula-hoop-game-in-makecode-arcade/)
 
 
 
-## Use this extension
-
-This repository can be added as an **extension** in MakeCode.
-
-* open https://arcade.makecode.com/
-* click on **New Project**
-* click on **Extensions** under the gearwheel menu
-* search for the URL of this repository and import
-
-## Edit this extension
+## Edit this Program
 
 To edit this repository in MakeCode.
 
